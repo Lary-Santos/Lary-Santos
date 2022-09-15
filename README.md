@@ -1,6 +1,4 @@
-## Olá! 
 
-- 🔭 Estudando desenvolvimento front-end
 
 <div align="center">
   <a href="https://github.com/Lary-Santos">
